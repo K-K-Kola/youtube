@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background: pink;
 }
 
 header {
@@ -85,6 +86,8 @@ header div, .button {
     height: 30px;
     border-radius: 15px;
 }
+
+
 
 
 
